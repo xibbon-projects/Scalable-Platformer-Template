@@ -49,6 +49,14 @@ jump={
 ]
 }
 
+[input_devices]
+
+pointing/ios/enable_ios_virtual_control=true
+pointing/ios/enable_right_thumbstick=false
+pointing/ios/enable_button_b=false
+pointing/ios/enable_button_x=false
+pointing/ios/enable_button_y=false
+
 [layer_names]
 
 2d_physics/layer_1="level"
